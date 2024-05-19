@@ -31,3 +31,22 @@ The dataset contains records of emergency calls made to Montgomery County. It co
 2. **Data Processing:** Clean the data by handling null values, extracting critical information, and organizing it for analysis.
 3. **Data Visualization:** Create visualizations to represent trends and patterns in emergency calls across different categories and years.
 
+## Libraries Used
+
+`pandas`
+`NumPy`
+`Seaborn`
+`Matplotlib`
+
+## Project Tasks
+
+* **Dataset Understanding:** Analyze the dataset's structure and attribute types.
+* **Anomaly Detection:** Identify and address any inconsistencies or anomalies in the dataset.
+* **Data Cleaning:** Remove null values and prepare the data for analysis.
+* **Data Extraction:** Extract critical information related to emergency calls into separate attributes.
+* **Visualization:** Create insightful visualizations to aid in data interpretation and analysis.
+
+##
+
+Please don't hesitate to offer suggestions, report any issues you encounter, share your feedback, or engage in any other form of communication! Your input is highly valued and appreciated.
+
