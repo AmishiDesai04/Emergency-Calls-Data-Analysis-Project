@@ -24,3 +24,10 @@ The dataset contains records of emergency calls made to Montgomery County. It co
 | *Twp* | Township |
 | *Addr* | Address |
 | *e* | Dummy Variable (always 1) |
+
+## Project Objectives
+
+1. **Data Exploration:** Understand the dataset's shape, attributes, and any anomalies or inconsistencies.
+2. **Data Processing:** Clean the data by handling null values, extracting critical information, and organizing it for analysis.
+3. **Data Visualization:** Create visualizations to represent trends and patterns in emergency calls across different categories and years.
+
