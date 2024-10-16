@@ -46,6 +46,10 @@ The dataset contains records of emergency calls made to Montgomery County. It co
 * **Data Extraction:** Extract critical information related to emergency calls into separate attributes.
 * **Visualization:** Create insightful visualizations to aid in data interpretation and analysis.
 
+## Authors
+
+This project is co-owned by: [@AmishiDesai04](https://www.github.com/AmishiDesai04), Pratham Vasa, Sparsh Panchori, Vansh Dhoka, Amogh Jambaulikar
+
 ##
 
 Please don't hesitate to offer suggestions, report any issues you encounter, share your feedback, or engage in any other form of communication! Your input is highly valued and appreciated.
